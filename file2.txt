@@ -1,3 +1,6 @@
-this is the second file of dev1
-dev2 file2 content added
+<<<<<<< HEAD
 adding new content to file2 
+=======
+dev3 file2 content added
+dev2 file2 details modified
+>>>>>>> refs/remotes/origin/main
