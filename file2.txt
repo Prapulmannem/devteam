@@ -1,2 +1,3 @@
 this is the second file of dev1
 dev2 file2 content added
+adding new content to file2 
